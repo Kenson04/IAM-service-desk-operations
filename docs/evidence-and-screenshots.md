@@ -1,6 +1,6 @@
 # Evidence and Screenshot Plan
 
-Use screenshots from your own lab. Do not represent placeholders as actual system evidence.
+ 
 
 | ID | Suggested filename | What it should demonstrate | Redaction/check |
 |---|---|---|---|
